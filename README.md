@@ -20,7 +20,7 @@ After cleaning the data and placing it into a DataFrame, <b>532 tradeable crypto
 <b> A scatterplot was made to visualize the clustered currencies</b>:
 ![scatter](img/scatter.png)
 
-<b> A 3-D Scatterplot was also visulized </b>:
+<b> A 3-D Scatterplot was also visulized to view the tradeable crytocurrencies </b>:
 
 ![3-d](img/3-d.png)
 
